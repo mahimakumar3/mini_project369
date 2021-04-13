@@ -47,9 +47,7 @@ The guessing player has lost this game as the diagram had been completed before 
 
 ## High Level Design 
 
---- TBD Structural and Behavioural Diagram
-![HighLevelStructuralDiagram](Link to Pic)
-![HighLevelBehaviouralDiagram](Link to Pic)
+https://github.com/mahimakumar3/mini_project369/blob/main/Design/00094.jpeg
 
 ## Low Level Design 
 
