@@ -15,6 +15,8 @@ Sharp put in great efforts in size and power reduction and introduced in January
 
 ## Cost and Features
 
+![Architecture](https://github.com/mahimakumar3/mini_project369/blob/main/Requirements/DCMARK-calculator-block-diagram.png)
+
 ## Defining Our System
 
 In most countries, students use calculators for schoolwork. There was some initial resistance to the idea out of fear that basic or elementary arithmetic skills would suffer. There remains disagreement about the importance of the ability to perform calculations in the head, with some curricula restricting calculator use until a certain level of proficiency has been obtained, while others concentrate more on teaching estimation methods and problem-solving. Research suggests that inadequate guidance in the use of calculating tools can restrict the kind of mathematical thinking that students engage in. Others have argued that calculator use can even cause core mathematical skills to atrophy, or that such use can prevent understanding of advanced algebraic concepts. In December 2011 the UK's Minister of State for Schools, Nick Gibb, voiced concern that children can become "too dependent" on the use of calculators. As a result, the use of calculators is to be included as part of a review of the Curriculum. In the United States, many math educators and boards of education have enthusiastically endorsed the National Council of Teachers of Mathematics (NCTM) standards and actively promoted the use of classroom calculators from kindergarten through high school.
