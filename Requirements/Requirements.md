@@ -26,7 +26,7 @@ The following example game illustrates a player trying to guess the word hangman
 
 
 ## Cost and Features
-https://inventwithpython.com/invent4thed/images/00094.jpeg
+![Architecture](https://github.com/mahimakumar3/mini_project369/blob/main/Design/00094.jpeg)
 ## Defining Our System
 Motivation
 A major problem in education is
