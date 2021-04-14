@@ -67,7 +67,7 @@ helped by using game. And it can also
 create a good atmosphere in the
 classroom
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![Architecture](https://github.com/mahimakumar3/mini_project369/blob/main/Requirements/IMG_20210414_130404.jpg)
 
 # 4W&#39;s and 1&#39;H
 
