@@ -10,4 +10,4 @@ float power();
 float factorial();
 void calculator_operations();
 
-#endif /* _shit.h_ */
+#endif /* _calculator_h_ */
