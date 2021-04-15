@@ -5,7 +5,7 @@ Before I was making a project based on Game but due to some reason i could'nt so
 
 
 # SDLC Activity Based Learning
-![Banner](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/banner.png)
+
 
 
 Build | Code Quality | Unity | Git Inspector
