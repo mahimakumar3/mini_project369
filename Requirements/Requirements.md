@@ -54,5 +54,11 @@ Blaise Pascal created a device that could perform arithmetic operations with jus
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+-- ID | Description    |
+    + | Addition       |
+    - | Subtracton     |
+    * | Multiplication |
+    / | Division       |
+    ^ | Power          |
+    ! | Factorial      |
